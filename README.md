@@ -1,341 +1,315 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">U Shree Sai Ganesh</h1>
+# 👋 U Shree Sai Ganesh
 
 <p align="center">
-  <strong>Aspiring Software Engineer · Full-Stack Developer · Problem Solver</strong>
+  <strong>Computer Science Engineering Student | Software Engineering | Backend Development</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/ganesh22-ux">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/ganesh277/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:usrisaiganesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganesh22-ux&label=Profile%20Views&color=555555&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ganesh22-ux&label=Profile%20Views&color=555555&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## 🧑‍💻 About Me
 
-## 👋 About Me
+I'm a Computer Science Engineering student interested in **software engineering, backend systems, and AI-powered applications**.
 
-```text
-Computer Science Engineering Student
-        ↓
-Software Engineering
-        ↓
-Full-Stack Development + AI
-        ↓
-DSA + System Design
-        ↓
-Building → Learning → Improving
-```
+I enjoy understanding how software works under the hood, solving algorithmic problems, and building projects that apply computer science concepts to practical problems.
 
-I'm a Computer Science Engineering student interested in building **scalable software, AI-powered applications, and reliable backend systems**.
-
-I enjoy solving complex problems, learning how systems work under the hood, and turning ideas into working products.
-
-🎯 **Current objective:** Become a strong software engineer with solid foundations in DSA, backend engineering and system design.
+* 💻 Building systems and applications from scratch
+* 🧠 Practicing Data Structures and Algorithms
+* ⚙️ Exploring networking, concurrency, databases, and persistence
+* 🌐 Developing full-stack applications
+* 🎯 Working toward becoming a strong software engineer
 
 ---
 
 ## 🚀 Currently Building
 
-<table>
-<tr>
-<td width="65%">
+### MiniRedis — Lightweight Key-Value Database
 
-### MockMate
+Building a Redis-inspired database in C++ to understand how in-memory data stores and network servers work internally.
 
-**AI Interview Preparation & Code Challenge Platform**
+Instead of relying on an existing database implementation, I'm developing the core functionality from scratch.
 
-MockMate is an AI-powered platform designed to help developers prepare for technical interviews through realistic practice and personalized feedback.
+**Key areas of development**
 
-**Core Features**
+* ⚡ In-memory key-value storage using C++
+* 🔌 TCP socket programming and client-server communication
+* 🧵 Concurrent client handling and thread safety
+* 💾 Data persistence and database recovery
+* 🔒 Synchronization using mutexes
+* 🏗️ Command parsing and server-side request handling
 
-* 🤖 AI-powered mock interviews
-* 💻 DSA practice
-* 🧠 Aptitude preparation
-* 📊 Interview scoring
-* 🎯 Personalized feedback
-* 📈 Performance tracking
+**Tech Stack**
 
-**Stack**
+`C++` `TCP/IP` `POSIX Sockets` `Multithreading` `Mutexes` `Linux` `Git`
 
-`React` `TypeScript` `Node.js` `Tailwind CSS` `AI APIs`
-
-<br>
-
-<a href="https://github.com/ganesh22-ux/MockMate">
-  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind" />
-
-<br><br>
-
-**Building in public**
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/ganesh22-ux/MiniRedis">
+    <img src="https://img.shields.io/badge/View%20MiniRedis-181717?style=for-the-badge&logo=github&logoColor=white" alt="View MiniRedis" />
+  </a>
+</p>
 
 ---
 
-# 🧩 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 MockMate
+
+**AI Interview Preparation Platform**
+
+A platform designed to help developers prepare for technical interviews through structured practice and AI-powered feedback.
+
+**Features**
+
+* AI-powered mock interviews
+* DSA and aptitude practice
+* Interview scoring and feedback
+* Performance tracking
+
+**Tech Stack**
+
+`React` `TypeScript` `Tailwind CSS` `AI APIs`
+
+<a href="https://github.com/ganesh22-ux/MockMate">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="MockMate Repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚗 BeyondVision — ADAS
 
-Computer-vision-based project focused on **Advanced Driver Assistance Systems**.
+**Advanced Driver Assistance Systems**
 
-**Focus**
+A computer-vision-focused project exploring intelligent driver assistance and real-time perception.
 
-`Computer Vision`
-`AI`
-`Real-Time Processing`
+**Areas of Focus**
+
+* Computer vision
+* AI-based perception
+* Real-time processing
+
+**Tech Areas**
+
+`Computer Vision` `AI` `Real-Time Systems`
 
 <a href="https://github.com/shishird-03/BeyondVision--ADAS">
-  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="BeyondVision Repository" />
 </a>
 
 </td>
-
-<td width="50%">
-
-### 🗳️ Online Voting System
-
-A database-driven voting platform built with secure authentication and backend APIs.
-
-**Stack**
-
-`Spring Boot`
-`Microsoft SQL Server`
-`JWT`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ✈️ Flight Management System
-
-Application for managing flight information and operations.
-
-**Focus**
-
-`Java`
-`SQL`
-`Backend Development`
-
-</td>
-
-<td width="50%">
-
-### 📚 More Projects
-
-I've also worked on applications involving:
-
-`E-Commerce`
-`Hotel Management`
-`Bus Management`
-`E-Book Management`
-`AI Applications`
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 🧠 Problem Solving
+## 🧩 More Projects
 
-> **Strong fundamentals → Better engineers**
+### 🗳️ Online Voting System
 
-I'm actively solving **Data Structures & Algorithms** problems to improve my problem-solving ability and prepare for software engineering interviews.
+A database-driven voting application focused on authentication, backend APIs, and managing voting data.
 
-### Topics
+**Tech Stack:** `Java` `Spring Boot` `Microsoft SQL Server` `JWT`
 
-<p align="center">
+### ✈️ Flight Management System
 
-<img src="https://img.shields.io/badge/Arrays-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Strings-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Hashing-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Two%20Pointers-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Sliding%20Window-222222?style=flat-square" />
+An application for managing flight information and operations, with a focus on application logic and database interaction.
 
-<br>
+**Tech Stack:** `Java` `SQL`
 
-<img src="https://img.shields.io/badge/Linked%20Lists-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Stacks-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Queues-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Binary%20Search-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Trees-222222?style=flat-square" />
+### 🌱 Plant Management System
 
-<br>
+An older academic project developed using JavaServer Faces (JSF), focused on plant-related information and management.
 
-<img src="https://img.shields.io/badge/Graphs-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Greedy-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Backtracking-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Dynamic%20Programming-222222?style=flat-square" />
-<img src="https://img.shields.io/badge/Monotonic%20Stack-222222?style=flat-square" />
+**Tech Stack:** `Java` `JavaServer Faces (JSF)` `Database Integration`
 
+### 📚 Other Academic Projects
+
+I've also worked on applications involving:
+
+`E-Commerce` · `Hotel Management` · `Bus Management` · `E-Book Management`
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and prepare for software engineering interviews.
+
+**Topics I'm working on**
+
+<p>
+  <img src="https://img.shields.io/badge/Arrays-222222?style=flat-square" alt="Arrays" />
+  <img src="https://img.shields.io/badge/Strings-222222?style=flat-square" alt="Strings" />
+  <img src="https://img.shields.io/badge/Hashing-222222?style=flat-square" alt="Hashing" />
+  <img src="https://img.shields.io/badge/Two%20Pointers-222222?style=flat-square" alt="Two Pointers" />
+  <img src="https://img.shields.io/badge/Sliding%20Window-222222?style=flat-square" alt="Sliding Window" />
+  <img src="https://img.shields.io/badge/Linked%20Lists-222222?style=flat-square" alt="Linked Lists" />
+  <img src="https://img.shields.io/badge/Stacks%20%26%20Queues-222222?style=flat-square" alt="Stacks and Queues" />
+  <img src="https://img.shields.io/badge/Binary%20Search-222222?style=flat-square" alt="Binary Search" />
+  <img src="https://img.shields.io/badge/Trees-222222?style=flat-square" alt="Trees" />
+  <img src="https://img.shields.io/badge/Graphs-222222?style=flat-square" alt="Graphs" />
+  <img src="https://img.shields.io/badge/Greedy-222222?style=flat-square" alt="Greedy" />
+  <img src="https://img.shields.io/badge/Backtracking-222222?style=flat-square" alt="Backtracking" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-222222?style=flat-square" alt="Dynamic Programming" />
 </p>
-
-### LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/ganesh277/">
-    <img src="https://leetcard.jacoblin.cool/ganesh277?theme=dark&font=baloo&ext=heatmap" width="500" />
+    <img src="https://leetcard.jacoblin.cool/ganesh277?theme=dark&font=baloo&ext=heatmap" width="500" alt="LeetCode Statistics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/ganesh277/">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Explore%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css" alt="Programming Languages" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=spring,prisma,mysql,postgres,redis" alt="Backend and Databases" />
 </p>
 
 ### Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma" alt="Development Tools" />
 </p>
 
-### AI & Development
+### Concepts & Technologies
 
-<p>
+`Data Structures & Algorithms` · `Operating Systems` · `Computer Architecture` · `REST APIs` · `TCP/IP` · `Object-Oriented Programming` · `JWT Authentication` · `AI API Integration`
 
-`OpenAI API` · `Gemini API` · `REST APIs` · `JWT` · `N8N`
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh22-ux&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Overview" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh22-ux&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh22-ux&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
+</p>
+
+<p align="center">
+  <sub>Statistics are generated dynamically and may take time to update.</sub>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🎯 2026 Roadmap
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh22-ux&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh22-ux&layout=compact&hide_border=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh22-ux&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh22-ux&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-# 🎯 2026 Roadmap
-
-<table align="center">
+<table>
 <tr>
-<td align="center">🧠<br><strong>DSA</strong><br>Master problem solving</td>
-<td align="center">🏗️<br><strong>System Design</strong><br>Learn scalable architectures</td>
-<td align="center">🤖<br><strong>AI</strong><br>Build intelligent products</td>
-<td align="center">🌐<br><strong>Open Source</strong><br>Contribute consistently</td>
+<td align="center" width="25%">
+
+### 🧠 DSA
+
+Improve algorithmic problem-solving and interview readiness.
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+Build reliable servers, APIs, and database-driven systems.
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️ System Design
+
+Learn concurrency, caching, scalability, and LLD.
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Projects
+
+Build, document, test, and deploy useful software.
+
+</td>
 </tr>
 </table>
 
-<br>
+**Current priorities**
 
-* 🔹 Strengthen DSA & competitive programming
-* 🔹 Build production-quality full-stack applications
-* 🔹 Learn scalable backend architecture
-* 🔹 Master System Design & LLD
-* 🔹 Build AI-powered applications
-* 🔹 Learn Docker & Kubernetes
-* 🔹 Contribute to open source
-* 🔹 Prepare for Software Engineering roles
+* Strengthen DSA and competitive programming fundamentals.
+* Deepen C++ knowledge through MiniRedis.
+* Understand networking, multithreading, and persistence.
+* Improve SQL, database design, and query optimization.
+* Build robust backend services and REST APIs.
+* Learn system design and low-level design.
+* Improve Docker, Linux, and deployment skills.
+* Continue developing full-stack and AI-powered applications.
+* Prepare for software engineering internship and SDE opportunities.
 
 ---
 
-# 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
 <p align="center">
-
-<strong>Understand the fundamentals.</strong><br>
-Build things that actually work.<br>
-Measure what matters.<br>
-Keep learning.
-
+  <strong>Understand the fundamentals.</strong><br />
+  Build systems from first principles.<br />
+  Write code that solves real problems.<br />
+  Learn continuously.
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="mailto:usrisaiganesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/ganesh277/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/ganesh22-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="mailto:usrisaiganesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ganesh22-ux">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/ganesh277/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <sub>Building software • Solving problems • Learning continuously</sub>
+  <sub>Building software · Solving problems · Learning by doing</sub>
 </p>
