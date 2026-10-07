@@ -30,7 +30,7 @@ I enjoy understanding how software works under the hood, solving algorithmic pro
 
 * 💻 Building systems and applications from scratch
 * 🧠 Practicing Data Structures and Algorithms
-* ⚙️ Exploring networking, concurrency, databases, and persistence
+* ⚙️ Exploring networking,databases, system design
 * 🌐 Developing full-stack applications
 * 🎯 Working toward becoming a strong software engineer
 
@@ -151,7 +151,7 @@ I've also worked on applications involving:
 
 ## 🧠 Problem Solving
 
-I regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and prepare for software engineering interviews.
+I practice Data Structures and Algorithms to strengthen my problem-solving skills and prepare for software engineering interviews.
 
 **Topics I'm working on**
 
@@ -242,13 +242,6 @@ I regularly practice Data Structures and Algorithms to strengthen my problem-sol
 <tr>
 <td align="center" width="25%">
 
-### 🧠 DSA
-
-Improve algorithmic problem-solving and interview readiness.
-
-</td>
-<td align="center" width="25%">
-
 ### ⚙️ Backend
 
 Build reliable servers, APIs, and database-driven systems.
@@ -273,8 +266,6 @@ Build, document, test, and deploy useful software.
 
 **Current priorities**
 
-* Strengthen DSA and competitive programming fundamentals.
-* Deepen C++ knowledge through MiniRedis.
 * Understand networking, multithreading, and persistence.
 * Improve SQL, database design, and query optimization.
 * Build robust backend services and REST APIs.
